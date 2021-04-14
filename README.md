@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IgnacioFalco. I'm software engineer from Argentina
+- 👋 Hi, I’m @IgnacioFalco. I'm a software engineer from Argentina
 
 
 <!---
